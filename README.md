@@ -7,9 +7,9 @@
 <h2>📥 Descargar e Importar el JAR</h2>
 
 <ol>
-  <li>
+  <li>https://github.com/lenier522/Convertidor/releases
     <strong>Descarga el archivo JAR:</strong><br>
-    Puedes descargar el archivo <code>.jar</code> de la librería desde la sección de <a href="https://github.com/tu-usuario/tu-repositorio/releases">Releases</a> del repositorio.
+    Puedes descargar el archivo <code>.jar</code> de la librería desde la sección de <a href="https://github.com/lenier522/Convertidor/releases">Releases</a> del repositorio.
   </li>
   <li>
     <strong>Agrega el JAR a tu proyecto:</strong><br>
